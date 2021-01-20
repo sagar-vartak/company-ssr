@@ -44,3 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Each website has their own header banner and footer contents which the page recieves through server
 
 ## Live Link
+
+LIVE [LINK](https://company-ssr.vercel.app/)
