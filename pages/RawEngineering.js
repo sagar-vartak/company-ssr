@@ -21,7 +21,6 @@ export const getStaticProps = async () => {
   };
 };
 export default function RawEngineering(props) {
-  console.log(props);
   return (
     <div>
       <Head>
