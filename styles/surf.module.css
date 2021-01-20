@@ -1,0 +1,64 @@
+.btn {
+  color: white;
+  background-color: #1cc1df;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  font-weight: 600;
+}
+.btn:hover {
+  background-color: #17a2bb;
+  text-decoration: none;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.header {
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+.content {
+  padding-top: 15%;
+}
+.content h1 {
+  font-size: 50px;
+  font-weight: 600;
+}
+.content p {
+  font-size: 20px;
+}
+.main {
+  margin-right: 30%;
+  margin-left: 10%;
+}
+.icons {
+  margin-top: 6px;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  color: rgb(97, 93, 93);
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.list li {
+  display: inline;
+}
+.logo2 {
+  width: 250px;
+  height: 40px;
+  margin-left: 20px;
+}
+.footer {
+  margin-left: 0;
+  margin-right: 30px;
+  margin-top: 10px;
+  width: 100%;
+}
+.copyright {
+  padding-top: 20px;
+  text-align: center;
+}

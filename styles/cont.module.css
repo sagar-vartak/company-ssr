@@ -1,0 +1,76 @@
+.nav {
+  z-index: 999;
+  position: fixed;
+  margin-top: 1rem;
+  margin-left: 50%;
+}
+.logo {
+  width: 250px;
+}
+.nav a {
+  padding-right: 20px;
+  color: white;
+}
+.btn {
+  background-color: tomato;
+  color: white;
+  padding: 5px;
+  border: 2px solid tomato;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: transparent;
+  text-decoration: none;
+  color: white;
+}
+.back {
+  background-image: url("https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt66f4449fa1b24162/5f1a2be22ac1577a44a8bfd7/hero-carousel-3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.content {
+  align-content: center;
+  font-size: 25px;
+  text-align: center;
+  z-index: 999;
+  position: fixed;
+  margin-top: 10em;
+  margin: 15%;
+  color: white;
+}
+.req {
+  font-size: 16px;
+  color: tomato;
+}
+.icons {
+  margin-top: 6px;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  color: rgb(97, 93, 93);
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.list li {
+  display: inline;
+}
+.logo2 {
+  width: 250px;
+  height: 40px;
+  margin-left: 20px;
+}
+.footer {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 40vh;
+  width: 100%;
+}
+.banner {
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+}
